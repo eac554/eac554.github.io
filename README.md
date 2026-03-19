@@ -2,8 +2,8 @@
 
 This is a personal portfolio website showcasing my projects, skills, and experience I have learned as a software engineering student
 
+<img width="1414" height="971" alt="Screenshot 2026-03-19 at 1 34 30 AM" src="https://github.com/user-attachments/assets/a42024fb-8a97-4b2a-b701-9a242d670293" />
 
-<img width="1152" height="899" alt="Screenshot 2026-03-18 at 2 19 39 PM" src="https://github.com/user-attachments/assets/ef248afd-d306-4013-aa1e-0ab0262e5a3e" />
 
 ## About
 
