@@ -18,7 +18,7 @@ This is my portfolio website built using HTML and CSS. It features my projects, 
 ## Sections
 
 - About Me
-- Project
+- Projects
 - Skills
 - Contact
 
